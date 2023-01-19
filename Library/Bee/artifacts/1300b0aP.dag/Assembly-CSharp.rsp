@@ -335,6 +335,7 @@
 "Assets/Scripts/Shared/Net_SliderValue.cs"
 "Assets/Scripts/SliderValueText.cs"
 "Assets/Scripts/UIManager.cs"
+"Assets/SwitchToCAPTCHA.cs"
 "Assets/ttt.cs"
 -langversion:9.0
 
